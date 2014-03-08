@@ -34,7 +34,6 @@ var app = {
     // function, we must explicity call 'app.receivedEvent(...);'
     onDeviceReady: function() {
         app.receivedEvent('deviceready');
-        location.href="http://aliamaz-gwt.googlecode.com/svn/trunk/aliamaz-gwt/war/Aliamaz_gwt.html";
     },
     // Update DOM on a Received Event
     receivedEvent: function(id) {
