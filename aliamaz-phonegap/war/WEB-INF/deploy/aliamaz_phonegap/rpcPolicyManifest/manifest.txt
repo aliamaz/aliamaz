@@ -1,0 +1,3 @@
+# Module aliamaz_phonegap
+# RPC service class, partial path of RPC policy file
+com.aliamaz.ga.client.GreetingService, 038C03AA46D61901D7B7B8AC5882F56C.gwt.rpc
