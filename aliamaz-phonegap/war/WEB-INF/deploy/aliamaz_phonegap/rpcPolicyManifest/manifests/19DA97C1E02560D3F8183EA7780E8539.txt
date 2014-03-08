@@ -1,2 +1,0 @@
-serviceClass: com.aliamaz.ga.client.GreetingService
-path: 038C03AA46D61901D7B7B8AC5882F56C.gwt.rpc
